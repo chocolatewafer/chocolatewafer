@@ -64,6 +64,7 @@ Welcome to my Github profile :)
 ![Discord](https://img.shields.io/badge/Discord-Chocolate_Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2)
 
 <br>
+<br>
 <details>
   <summary>Some other stuff about me🍵</summary>
   <br>
@@ -91,6 +92,19 @@ Welcome to my Github profile :)
 KEC Robotics Club **President** *2023-24*  
 KEC Robotics Club **Event Manager** *2022-23*  
 SXC A-Levels Society **Treasurer** *2017-18*
+
+### I am into
+
+[Art](https://www.instagram.com/artsybun_/) | Guitar | [Photography](https://www.instagram.com/high_on_caffiene/) | Basketball
+
+Do checkout my blog: (Doesn't Exist Yet)
+
+</div>
+
+<div align ="center">
+<br>
+
+![See you](/assets/see_you.png)
 
 </div>
 

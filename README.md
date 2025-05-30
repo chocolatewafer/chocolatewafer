@@ -32,13 +32,6 @@ Welcome to my Github profile :)
   <br>
 </div>
 
-
-<p align ="center">
-
-![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&line_height=21) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&line_height=27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
 <div align="center">
 
 🛠️ Tech I tinker with ⌨️
@@ -68,11 +61,36 @@ Welcome to my Github profile :)
 ![latex](https://img.shields.io/badge/PDF-Latex-a69279?style=flat-square&logo=latex&logoColor=fff0db)
 ![Blender](https://img.shields.io/badge/3D-Blender-a69279?style=flat-square&logo=blender&logoColor=fff0db)
 
+![Discord](https://img.shields.io/badge/Discord-Chocolate_Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2)
 
 <br>
 <details>
-  <summary>Some other stuff about me</summary>
+  <summary>Some other stuff about me🍵</summary>
   <br>
+<p align ="center">
+
+![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&line_height=21) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&line_height=27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+
+---
+
+### Education
+
+**🎓Bachelors in Computer Engineering** - Kathmandu Engineering College, Ktm
+
+**🧪A Levels with Computer Science and Maths Major** - Saint Xavier's College, Ktm
+
+### Papers
+
+[AI Content Detection](https://www.nepjol.info/index.php/kjse/article/view/78343)
+
+### Clubs
+
+KEC Robotics Club **President** *2023-24*  
+KEC Robotics Club **Event Manager** *2022-23*  
+SXC A-Levels Society **Treasurer** *2017-18*
 
 </div>
 

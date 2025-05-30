@@ -6,15 +6,9 @@
 
 <div align="center">
     <p>
-      <a href="https://www.instagram.com/high_on_caffiene">
-        <img width="18" height="18" src="./assets/instagram.svg" />
-      </a>
-      <a href="https://www.linkedin.com/in/sparsh-nidhi-74381915a ">
-        <img width="18" height="18" src="./assets/linkedin.svg" alt="linkedin"/>
-      </a>
-      <a href="mailto:sparsh123nidhi@gmail.com">
-        <img width="18" height="18" src="./assets/email.svg" />
-      </a>
+      <a href="https://www.instagram.com/high_on_caffiene"><img width="18" height="18" src="https://img.icons8.com/material-rounded/18/instagram-new.png" alt="instagram-new"/></a>
+      <a href="https://www.linkedin.com/in/sparsh-nidhi-74381915a "><img width="18" height="18" src="https://img.icons8.com/material-rounded/18/linkedin--v1.png" alt="linkedin--v1"/></a>
+      <a href="mailto:sparsh123nidhi@gmail.com"><img width="18" height="18" src="https://img.icons8.com/softteal/18/gmail-new.png" alt="gmail-new"/></a>
     </p>
   </div>
 

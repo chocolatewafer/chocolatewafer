@@ -1,14 +1,14 @@
 <div align="center">
-<img src="./assets/coffee.gif" alt="coffee" width="10%"/>
+<img src="./assets/coffee.gif" alt="coffee" width="6%"/>
 <img src="./assets/name.png" alt="Sparsh Nidhi" width="50%"/>
 <img src="./assets/retro-pc-brown.gif" alt="PC" width="20%"/>
 </div>
 
 <div align="center">
     <p>
-      <a href="https://www.instagram.com/high_on_caffiene"><img width="18" height="18" src="https://img.icons8.com/material-rounded/18/instagram-new.png" alt="instagram-new"/></a>
-      <a href="https://www.linkedin.com/in/sparsh-nidhi-74381915a "><img width="18" height="18" src="https://img.icons8.com/material-rounded/18/linkedin--v1.png" alt="linkedin--v1"/></a>
-      <a href="mailto:sparsh123nidhi@gmail.com"><img width="18" height="18" src="https://img.icons8.com/softteal/18/gmail-new.png" alt="gmail-new"/></a>
+      <a href="https://www.instagram.com/high_on_caffiene"><img width="18" height="18" src="https://img.icons8.com/461212/material-rounded/18/instagram-new.png" alt="instagram-new"/></a>
+      <a href="https://www.linkedin.com/in/sparsh-nidhi-74381915a "><img width="18" height="18" src="https://img.icons8.com/461212/material-rounded/18/linkedin--v1.png" alt="linkedin--v1"/></a>
+      <a href="mailto:sparsh123nidhi@gmail.com"><img width="18" height="18" src="https://img.icons8.com/461212/material-rounded/18/mail.png" alt="mail"/></a>
     </p>
   </div>
 

@@ -21,6 +21,7 @@
 Welcome to my Github profile :)
 </h3>
 </p>
+</div>
 
 <div align= "center">    
     Hi! I am Sparsh. Computer Engineer | Python Dev | AI Enthusiast | from Nepal 🇳🇵
@@ -32,7 +33,48 @@ Welcome to my Github profile :)
 </div>
 
 
-![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer)
+<p align ="center">
+
+![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&line_height=21) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&line_height=27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+<div align="center">
+
+🛠️ Tech I tinker with ⌨️
+
+![Python](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-Python-5c423b?style=flat-square&logo=python&logoColor=fff0db)
+![C](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-C-5c423b?style=flat-square&logo=c&logoColor=fff0db)
+![C++](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-C%2B%2B-5c423b?style=flat-square&logo=c%2B%2B&logoColor=fff0db)
+![Kotlin](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-Kotlin-5c423b?style=flat-square&logo=kotlin&logoColor=fff0db)
+![Git](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-git-5c423b?style=flat-square&logo=git&logoColor=fff0db)
+
+![Pycharm](https://img.shields.io/badge/IDE-Pycharm-a69279?style=flat-square&logo=pycharm&logoColor=fff0db)
+![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-a69279?style=flat-square&logo=intellijidea&logoColor=fff0db)
+![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-a69279?style=flat-square&logo=androidstudio&logoColor=fff0db)
+![Mysql](https://img.shields.io/badge/Database-MySQL-a69279?style=flat-square&logo=mysql&logoColor=fff0db)
+![Docker](https://img.shields.io/badge/Tools-Docker-a69279?style=flat-square&logo=docker&logoColor=fff0db)
+![Github Actions](https://img.shields.io/badge/Tools-GitHub%20Actions-a69279?style=flat-square&logo=githubactions&logoColor=fff0db)
+![Django](https://img.shields.io/badge/Library-Django-a69279?style=flat-square&logo=django&logoColor=fff0db)
+![FastAPI](https://img.shields.io/badge/Library-FastAPI-a69279?style=flat-square&logo=fastapi&logoColor=fff0db)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-a69279?style=flat-square&logo=opencv&logoColor=fff0db)
+![PyQT](https://img.shields.io/badge/Library-PyQt-a69279?style=flat-square&logo=qt&logoColor=fff0db)
+![Plotly](https://img.shields.io/badge/Library-Plotly-a69279?style=flat-square&logo=plotly&logoColor=fff0db)
+![Pandas](https://img.shields.io/badge/Library-Pandas-a69279?style=flat-square&logo=pandas&logoColor=fff0db)
+![Pytorch](https://img.shields.io/badge/Library-Pytorch-a69279?style=flat-square&logo=pytorch&logoColor=fff0db)
+![Streamlit](https://img.shields.io/badge/Library-Streamlit-a69279?style=flat-square&logo=streamlit&logoColor=fff0db)
+![Arduino](https://img.shields.io/badge/Hardware-Arduino-a69279?style=flat-square&logo=arduino&logoColor=fff0db)
+
+![latex](https://img.shields.io/badge/PDF-Latex-a69279?style=flat-square&logo=latex&logoColor=fff0db)
+![Blender](https://img.shields.io/badge/3D-Blender-a69279?style=flat-square&logo=blender&logoColor=fff0db)
+
+
+<br>
+<details>
+  <summary>Some other stuff about me</summary>
+  <br>
+
+</div>
 
 <!--
 **chocolatewafer/chocolatewafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

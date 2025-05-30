@@ -70,7 +70,7 @@ Welcome to my Github profile :)
   <br>
 <p align ="center">
 
-![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&line_height=21) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&line_height=27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 

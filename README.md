@@ -1,7 +1,7 @@
 <div align="center">
-<img src="./assets/coffee.gif" alt="coffee" width="6%"/>
-<img src="./assets/name.png" alt="Sparsh Nidhi" width="50%"/>
-<img src="./assets/retro-pc-brown.gif" alt="PC" width="20%"/>
+<img src="./assets/coffee_padded.gif" alt="Coffee" width="10%"/>
+<img src="./assets/name.png" alt="Sparsh Nidhi" width="58%"/>
+<img src="./assets/retro-pc-brown.gif" alt="Retro Pc" width="20%"/>
 </div>
 
 <div align="center">
@@ -12,19 +12,27 @@
     </p>
   </div>
 
-<div align= "center">    
-    Whats Up! I am Sparsh, a python dev and AI enthusiast from Nepal 🇳🇵
+<br>
 
-  <p>
-    <a href="">Instagram</a> • 
-    <a href="">X</a> • 
-    <a href="">LinkedIn</a>
-  </p>
+---
+
+<div align="center">
+<h3>
+Welcome to my Github profile :)
+</h3>
+</p>
+
+<div align= "center">    
+    Hi! I am Sparsh. Computer Engineer | Python Dev | AI Enthusiast | from Nepal 🇳🇵
+  <br>
+  <br>
+    I recently graduated and started my coding journey. I am getting there! ~ (￣_￣|||)
   <br>
   <br>
 </div>
 
----
+
+![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer)
 
 <!--
 **chocolatewafer/chocolatewafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

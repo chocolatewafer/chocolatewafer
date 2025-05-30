@@ -1,19 +1,10 @@
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 2em 3em;flex-wrap: no-wrap; gap: 1em; ">
-  
-  <div style="flex: 1; min-width: 100px;">
-    <img width="60" height="30" src="./assets/coffee.gif" />
-  </div>
+<div align="center">
+<img src="./assets/coffee.gif" alt="coffee" width="10%"/>
+<img src="./assets/name.png" alt="Sparsh Nidhi" width="50%"/>
+<img src="./assets/retro-pc-brown.gif" alt="PC" width="20%"/>
+</div>
 
-  <div style="
-    flex: 2; text-align: center; min-width: 250px;">
-    <a href="https://chocolatewafer.github.io/" style="
-      font-family: 'Press Start 2P', cursive;
-      font-size: 14px;
-      color:rgba(93, 34, 25, 0.97);
-      text-shadow: 1px 1px 2px black;
-      text-decoration: none;">Sparsh Nidhi</a>
-    <br><br>
+<div align="center">
     <p>
       <a href="https://www.instagram.com/high_on_caffiene">
         <img width="18" height="18" src="./assets/instagram.svg" />
@@ -27,12 +18,7 @@
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 100px; ">
-    <img width="200" height="120" src="./assets/retro-pc-brown.gif" />
-  </div>
-</div>
-
-<div style="text-align: center;">    
+<div align= "center">    
     Whats Up! I am Sparsh, a python dev and AI enthusiast from Nepal 🇳🇵
 
   <p>
@@ -43,6 +29,8 @@
   <br>
   <br>
 </div>
+
+---
 
 <!--
 **chocolatewafer/chocolatewafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

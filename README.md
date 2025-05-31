@@ -62,7 +62,7 @@ Welcome to my Github profile :)
 ![latex](https://img.shields.io/badge/PDF-Latex-a69279?style=flat-square&logo=latex&logoColor=fff0db)
 ![Blender](https://img.shields.io/badge/3D-Blender-a69279?style=flat-square&logo=blender&logoColor=fff0db)
 
-![Discord](https://img.shields.io/badge/Discord-Chocolate_Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2)
+![Discord](https://img.shields.io/badge/Discord-Chocolate__Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2)
 
 <br>
 <br>

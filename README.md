@@ -66,7 +66,7 @@ Welcome to my Github profile :)
 <br>
 <br>
 <details>
-  <summary>Some other stuff about me🍵</summary>
+  <summary>Some other stuff about me☕</summary>
   <br>
 <p align ="center">
 
@@ -95,7 +95,7 @@ SXC A-Levels Society **Treasurer** *2017-18*
 
 ### I am into
 
-[Art](https://www.instagram.com/artsybun_/) | Guitar | [Photography](https://www.instagram.com/high_on_caffiene/) | Basketball
+[Art](https://www.instagram.com/artsybun_/) | Guitar | [Photography](https://www.instagram.com/high_on_caffiene/) | Basketball | Anime
 
 Do checkout my blog: (Doesn't Exist Yet)
 

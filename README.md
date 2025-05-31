@@ -17,10 +17,11 @@
 ---
 
 <div align="center">
+<br>
 <h3>
 Welcome to my Github profile :)
 </h3>
-</p>
+<br>
 </div>
 
 <div align= "center">    

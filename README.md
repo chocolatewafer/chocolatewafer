@@ -71,7 +71,7 @@ Welcome to my Github profile :)
   </p>
 
   <p>
-  <img src="https://img.shields.io/badge/Discord-Chocolate_Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-Chocolate__Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2" alt="Discord">
   </p>
 </div>
 

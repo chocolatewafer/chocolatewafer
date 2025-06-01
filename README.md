@@ -116,13 +116,10 @@ SXC A-Levels Society <b>Treasurer</b> <i>2017-18</i>
 
 Do checkout my blog: (Doesn't Exist Yet)
 
-</div>
 
 <div align ="center">
 <br>
-
-<img src="./assets/see_you.png"></img>
-
+<img src="./assets/see_you.png">
 </div>
 
 <!--

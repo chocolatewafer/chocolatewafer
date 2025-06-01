@@ -37,32 +37,44 @@ Welcome to my Github profile :)
 
 🛠️ Tech I tinker with ⌨️
 
-![Python](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-Python-5c423b?style=flat-square&logo=python&logoColor=fff0db)
-![C](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-C-5c423b?style=flat-square&logo=c&logoColor=fff0db)
-![C++](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-C%2B%2B-5c423b?style=flat-square&logo=c%2B%2B&logoColor=fff0db)
-![Kotlin](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-Kotlin-5c423b?style=flat-square&logo=kotlin&logoColor=fff0db)
-![Git](https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-git-5c423b?style=flat-square&logo=git&logoColor=fff0db)
+<div>
+  <p>
+  <img src="https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-Python-5c423b?style=flat-square&logo=python&logoColor=fff0db" alt="Python">
+  <img src="https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-C-5c423b?style=flat-square&logo=c&logoColor=fff0db" alt="C">
+  <img src="https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-C%2B%2B-5c423b?style=flat-square&logo=c%2B%2B&logoColor=fff0db" alt="C++">
+  <img src="https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-Kotlin-5c423b?style=flat-square&logo=kotlin&logoColor=fff0db" alt="Kotlin">
+  <img src="https://img.shields.io/badge/%E2%80%8E%E2%80%8E%20-git-5c423b?style=flat-square&logo=git&logoColor=fff0db" alt="Git">
+  </p>
+  
+  <p>
+  <img src="https://img.shields.io/badge/IDE-Pycharm-a69279?style=flat-square&logo=pycharm&logoColor=fff0db" alt="Pycharm">
+  <img src="https://img.shields.io/badge/IDE-IntelliJ-a69279?style=flat-square&logo=intellijidea&logoColor=fff0db" alt="IntelliJ">
+  <img src="https://img.shields.io/badge/IDE-Android%20Studio-a69279?style=flat-square&logo=androidstudio&logoColor=fff0db" alt="Android Studio">
+  
+  <img src="https://img.shields.io/badge/Database-MySQL-a69279?style=flat-square&logo=mysql&logoColor=fff0db" alt="MySQL">
+  <img src="https://img.shields.io/badge/Tools-Docker-a69279?style=flat-square&logo=docker&logoColor=fff0db" alt="Docker">
+  <img src="https://img.shields.io/badge/Tools-GitHub%20Actions-a69279?style=flat-square&logo=githubactions&logoColor=fff0db" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Library-Django-a69279?style=flat-square&logo=django&logoColor=fff0db" alt="Django">
+  <img src="https://img.shields.io/badge/Library-FastAPI-a69279?style=flat-square&logo=fastapi&logoColor=fff0db" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Library-OpenCV-a69279?style=flat-square&logo=opencv&logoColor=fff0db" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Library-PyQt-a69279?style=flat-square&logo=qt&logoColor=fff0db" alt="PyQt">
+  <img src="https://img.shields.io/badge/Library-Plotly-a69279?style=flat-square&logo=plotly&logoColor=fff0db" alt="Plotly">
+  <img src="https://img.shields.io/badge/Library-Pandas-a69279?style=flat-square&logo=pandas&logoColor=fff0db" alt="Pandas">
+  <img src="https://img.shields.io/badge/Library-Pytorch-a69279?style=flat-square&logo=pytorch&logoColor=fff0db" alt="Pytorch">
+  <img src="https://img.shields.io/badge/Library-Streamlit-a69279?style=flat-square&logo=streamlit&logoColor=fff0db" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Hardware-Arduino-a69279?style=flat-square&logo=arduino&logoColor=fff0db" alt="Arduino">
+  </p>
 
-![Pycharm](https://img.shields.io/badge/IDE-Pycharm-a69279?style=flat-square&logo=pycharm&logoColor=fff0db)
-![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-a69279?style=flat-square&logo=intellijidea&logoColor=fff0db)
-![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-a69279?style=flat-square&logo=androidstudio&logoColor=fff0db)
-![Mysql](https://img.shields.io/badge/Database-MySQL-a69279?style=flat-square&logo=mysql&logoColor=fff0db)
-![Docker](https://img.shields.io/badge/Tools-Docker-a69279?style=flat-square&logo=docker&logoColor=fff0db)
-![Github Actions](https://img.shields.io/badge/Tools-GitHub%20Actions-a69279?style=flat-square&logo=githubactions&logoColor=fff0db)
-![Django](https://img.shields.io/badge/Library-Django-a69279?style=flat-square&logo=django&logoColor=fff0db)
-![FastAPI](https://img.shields.io/badge/Library-FastAPI-a69279?style=flat-square&logo=fastapi&logoColor=fff0db)
-![OpenCV](https://img.shields.io/badge/Library-OpenCV-a69279?style=flat-square&logo=opencv&logoColor=fff0db)
-![PyQT](https://img.shields.io/badge/Library-PyQt-a69279?style=flat-square&logo=qt&logoColor=fff0db)
-![Plotly](https://img.shields.io/badge/Library-Plotly-a69279?style=flat-square&logo=plotly&logoColor=fff0db)
-![Pandas](https://img.shields.io/badge/Library-Pandas-a69279?style=flat-square&logo=pandas&logoColor=fff0db)
-![Pytorch](https://img.shields.io/badge/Library-Pytorch-a69279?style=flat-square&logo=pytorch&logoColor=fff0db)
-![Streamlit](https://img.shields.io/badge/Library-Streamlit-a69279?style=flat-square&logo=streamlit&logoColor=fff0db)
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-a69279?style=flat-square&logo=arduino&logoColor=fff0db)
+  <p>
+  <img src="https://img.shields.io/badge/PDF-Latex-a69279?style=flat-square&logo=latex&logoColor=fff0db" alt="Latex">
+  <img src="https://img.shields.io/badge/3D-Blender-a69279?style=flat-square&logo=blender&logoColor=fff0db" alt="Blender">
+  </p>
 
-![latex](https://img.shields.io/badge/PDF-Latex-a69279?style=flat-square&logo=latex&logoColor=fff0db)
-![Blender](https://img.shields.io/badge/3D-Blender-a69279?style=flat-square&logo=blender&logoColor=fff0db)
+  <p>
+  <img src="https://img.shields.io/badge/Discord-Chocolate_Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2" alt="Discord">
+  </p>
+</div>
 
-![Discord](https://img.shields.io/badge/Discord-Chocolate_Wafer%238409-F5EBDD?style=for-the-badge&logo=discord&logoColor=fff0db&labelColor=5865F2)
 
 <br>
 <br>
@@ -71,32 +83,39 @@ Welcome to my Github profile :)
   <br>
 <p align ="center">
 
-![Sparsh's Github Stats](https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" 
+    alt="Sparsh's GitHub Stats">
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&layout=compact&theme=transparent" 
+      alt="Top Languages">
+</a>
 
 </p>
 
 
 ---
 
-### Education
+<h3> Education </h3>
+<p>
+<b>🎓Bachelors in Computer Engineering</b> - Kathmandu Engineering College, Ktm <br>
+<b>🧪A Levels with Computer Science and Maths Major</b> - Saint Xavier's College, Ktm
+</p>
 
-**🎓Bachelors in Computer Engineering** - Kathmandu Engineering College, Ktm
+<h3> Papers </h3>
 
-**🧪A Levels with Computer Science and Maths Major** - Saint Xavier's College, Ktm
+<a href="https://www.nepjol.info/index.php/kjse/article/view/78343">AI Content Detection</a>
 
-### Papers
+<h3> Clubs </h3>
+<p> 
+KEC Robotics Club <b>President</b> <i>2023-24</i><br>  
+KEC Robotics Club <b>Event Manager</b> <i>2022-23</i><br>  
+SXC A-Levels Society <b>Treasurer</b> <i>2017-18</i>
+</p>
 
-[AI Content Detection](https://www.nepjol.info/index.php/kjse/article/view/78343)
+<h3> I am into </h3>
 
-### Clubs
-
-KEC Robotics Club **President** *2023-24*  
-KEC Robotics Club **Event Manager** *2022-23*  
-SXC A-Levels Society **Treasurer** *2017-18*
-
-### I am into
-
-[Art](https://www.instagram.com/artsybun_/) | Guitar | [Photography](https://www.instagram.com/high_on_caffiene/) | Basketball | Anime
+<a href = "https://www.instagram.com/artsybun_/">Art</a> | Guitar | <a href="https://www.instagram.com/high_on_caffiene/">Photography</a> | Basketball | Anime
 
 Do checkout my blog: (Doesn't Exist Yet)
 
@@ -105,7 +124,7 @@ Do checkout my blog: (Doesn't Exist Yet)
 <div align ="center">
 <br>
 
-![See you](/assets/see_you.png)
+<img src="./assets/see_you.png"></img>
 
 </div>
 

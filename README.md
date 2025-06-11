@@ -83,10 +83,8 @@ Welcome to my Github profile :)
   <br>
 <p align ="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" 
-    alt="Sparsh's GitHub Stats"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&layout=compact&theme=transparent" 
-    alt="Top Languages"></a>
+![Sparsh's GitHub Stats]("https://github-readme-stats.vercel.app/api?username=chocolatewafer&show_icons=true&count_private=true&include_all_commits=true&theme=transparent")
+![Top Languages]("https://github-readme-stats.vercel.app/api/top-langs/?username=chocolatewafer&layout=compact&theme=transparent")
 
 </p>
 
